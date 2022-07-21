@@ -1,0 +1,6 @@
+json
+requests
+newspaper
+ioc_finder
+bs4
+pathlib
